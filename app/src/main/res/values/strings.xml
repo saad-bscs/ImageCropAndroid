@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjectImageCrop</string>
+    <string name="rationale_gallery">This app require permission for accessing gallery.</string>
+    <string name="select_image_text">Click To Select Image File</string>
+
+</resources>
